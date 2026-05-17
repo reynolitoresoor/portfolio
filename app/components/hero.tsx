@@ -1,6 +1,3 @@
-//import { NextLogo } from "./next-logo";
-//import { SupabaseLogo } from "./supabase-logo";
-import { technicalSkills, projects } from "@/lib/placehoder-data";
 import { TechnicalSkills } from "./technical-skills";
 import { Projects } from "./projects";
 
