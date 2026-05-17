@@ -1,5 +1,6 @@
 import { TechnicalSkills } from "./technical-skills";
 import { Projects } from "./projects";
+
 export function Hero() {
   return (
     <div className="grid md:grid-cols-3 lg:grid-cols-3 gap-6 items-center">
