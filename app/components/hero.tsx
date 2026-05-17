@@ -8,7 +8,7 @@ export function Hero() {
   return (
     <div className="grid md:grid-cols-3 lg:grid-cols-3 gap-6 items-center">
       <div className="w-full flex flex-col gap-4 items-center">
-        <div className="flex flex-col md:fixed lg:fixed top-20 items-center">
+        <div className="flex flex-col md:fixed lg:fixed top-20 md:mt-5 lg:mt-5 md:pt-5 md:pt-5 items-center">
             <a
             href="https://supabase.com/?utm_source=create-next-app&utm_medium=template&utm_term=nextjs"
             target="_blank"
