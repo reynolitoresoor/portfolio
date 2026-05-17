@@ -1,4 +1,4 @@
-import { projects } from "@/lib/placehoder-data";
+import { projects } from "../lib/placeholder-data";
 
 export function Projects() {
     return (
