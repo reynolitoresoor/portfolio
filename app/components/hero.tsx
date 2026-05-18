@@ -18,7 +18,6 @@ export function Hero() {
           <div className="flex">
             <a className="rounded-3xl mt-2 mx-1 border px-3.5 py-2.5 text-sm font-semibold shadow-xs focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 flex items-center">English</a>
             <a className="rounded-3xl mt-2 mx-1 border px-3.5 py-2.5 text-sm font-semibold shadow-xs focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 flex items-center">Tagalog</a>
-            <a className="rounded-3xl mt-2 mx-1 border px-3.5 py-2.5 text-sm font-semibold shadow-xs focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 flex items-center">Visaya</a>
           </div>
         </div>
       </div>
