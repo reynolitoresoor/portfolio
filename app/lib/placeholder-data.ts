@@ -46,22 +46,22 @@ const projects = [
         img: './assets/images/projects.jpg'
     },
     {
-        name: 'Hotel Reservation',
+        name: 'Match Made',
         description: 'Build web apps with Next.js + Tailwindcss + Supabase',
-        sourceCode: 'https://github.com/reynolitoresoor/btms',
-        img: './assets/images/projects.jpg'
+        sourceCode: 'https://github.com/reynolitoresoor/match-made',
+        img: './assets/images/match-made.png'
     },
     {
         name: 'Vote2Sort',
         description: 'Build web apps with Next.js + Tailwindcss + Supabase',
         sourceCode: 'https://github.com/reynolitoresoor/v2s',
-        img: './assets/images/projects.jpg'
+        img: './assets/images/vote2sort.png'
     },
     {
         name: 'BTMS',
         description: 'Build web apps with Next.js + Tailwindcss + Supabase',
         sourceCode: 'https://github.com/reynolitoresoor/btms',
-        img: './assets/images/projects.jpg'
+        img: './assets/images/btms.png'
     }
 ];
 
