@@ -28,24 +28,6 @@ const technicalSkills = [
 
 const projects = [
     {
-        name: 'Car Rental',
-        description: 'Build web apps with Next.js + Tailwindcss + Supabase',
-        sourceCode: 'https://github.com/reynolitoresoor/btms',
-        img: './assets/images/projects.jpg'
-    },
-    {
-        name: 'Coffee Shop',
-        description: 'Build web apps with Nuxt.js + Tailwindcss + Supabase',
-        sourceCode: 'https://github.com/reynolitoresoor/btms',
-        img: './assets/images/projects.jpg'
-    },
-    {
-        name: 'Jassy Ukay Store',
-        description: 'Build web apps with Nuxt.js + Tailwindcss + Supabase',
-        sourceCode: 'https://github.com/reynolitoresoor/btms',
-        img: './assets/images/projects.jpg'
-    },
-    {
         name: 'Match Made',
         description: 'Build web apps with Next.js + Tailwindcss + Supabase',
         sourceCode: 'https://github.com/reynolitoresoor/match-made',
@@ -62,6 +44,24 @@ const projects = [
         description: 'Build web apps with Next.js + Tailwindcss + Supabase',
         sourceCode: 'https://github.com/reynolitoresoor/btms',
         img: './assets/images/btms.png'
+    },
+    {
+        name: 'Car Rental',
+        description: 'Build web apps with Next.js + Tailwindcss + Supabase',
+        sourceCode: 'https://github.com/reynolitoresoor/btms',
+        img: './assets/images/projects.jpg'
+    },
+    {
+        name: 'Coffee Shop',
+        description: 'Build web apps with Nuxt.js + Tailwindcss + Supabase',
+        sourceCode: 'https://github.com/reynolitoresoor/btms',
+        img: './assets/images/projects.jpg'
+    },
+    {
+        name: 'Jassy Ukay Store',
+        description: 'Build web apps with Nuxt.js + Tailwindcss + Supabase',
+        sourceCode: 'https://github.com/reynolitoresoor/btms',
+        img: './assets/images/projects.jpg'
     }
 ];
 
