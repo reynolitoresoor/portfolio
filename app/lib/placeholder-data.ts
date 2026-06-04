@@ -29,40 +29,40 @@ const technicalSkills = [
 const projects = [
     {
         name: 'Match Made',
-        description: 'Build web apps with Next.js + Tailwindcss + Supabase',
+        description: '',
         sourceCode: 'https://github.com/reynolitoresoor/match-made',
         img: './assets/images/match-made.png'
     },
     {
         name: 'Vote2Sort',
-        description: 'Build web apps with Next.js + Tailwindcss + Supabase',
+        description: '', //Build web apps with Next.js + Tailwindcss + Supabase
         sourceCode: 'https://github.com/reynolitoresoor/v2s',
         img: './assets/images/vote2sort.png'
     },
     {
         name: 'BTMS',
-        description: 'Build web apps with Next.js + Tailwindcss + Supabase',
+        description: '',
         sourceCode: 'https://github.com/reynolitoresoor/btms',
         img: './assets/images/btms.png'
     },
-    {
-        name: 'Car Rental',
-        description: 'Build web apps with Next.js + Tailwindcss + Supabase',
-        sourceCode: 'https://github.com/reynolitoresoor/btms',
-        img: './assets/images/projects.jpg'
-    },
-    {
-        name: 'Coffee Shop',
-        description: 'Build web apps with Nuxt.js + Tailwindcss + Supabase',
-        sourceCode: 'https://github.com/reynolitoresoor/btms',
-        img: './assets/images/projects.jpg'
-    },
-    {
-        name: 'Jassy Ukay Store',
-        description: 'Build web apps with Nuxt.js + Tailwindcss + Supabase',
-        sourceCode: 'https://github.com/reynolitoresoor/btms',
-        img: './assets/images/projects.jpg'
-    }
+    // {
+    //     name: 'Car Rental',
+    //     description: '',
+    //     sourceCode: 'https://github.com/reynolitoresoor/btms',
+    //     img: './assets/images/projects.jpg'
+    // },
+    // {
+    //     name: 'Coffee Shop',
+    //     description: '',
+    //     sourceCode: 'https://github.com/reynolitoresoor/btms',
+    //     img: './assets/images/projects.jpg'
+    // },
+    // {
+    //     name: 'Jassy Ukay Store',
+    //     description: '',
+    //     sourceCode: 'https://github.com/reynolitoresoor/btms',
+    //     img: './assets/images/projects.jpg'
+    // }
 ];
 
 export {technicalSkills, projects};
