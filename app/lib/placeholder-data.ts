@@ -65,4 +65,43 @@ const projects = [
     // }
 ];
 
-export {technicalSkills, projects};
+const currentProjects = [
+    {
+        name: 'Potomacofficersclub',
+        description: '',
+        sourceCode: 'https://www.potomacofficersclub.com/',
+        img: './assets/images/poc.png'
+    }, 
+    {
+        name: 'Wash100',
+        description: '',
+        sourceCode: 'https://www.wash100.com/',
+        img: './assets/images/wash100.png'
+    },
+    {
+        name: 'GovConExec',
+        description: '',
+        sourceCode: 'https://www.govconexec.com/',
+        img: './assets/images/govconexec.png'
+    },
+    {
+        name: 'Executivebiz',
+        description: '',
+        sourceCode: 'https://www.executivebiz.com/',
+        img: './assets/images/executivebiz.png'
+    },
+    {
+        name: 'Govconwire',
+        description: '',
+        sourceCode: 'https://www.govconwire.com/',
+        img: './assets/images/govconwire.png'
+    },
+    {
+        name: 'Events.Govconwire',
+        description: '',
+        sourceCode: 'https://events.govconwire.com/',
+        img: './assets/images/events.govconwire.png'
+    },
+];
+
+export {technicalSkills, projects, currentProjects};

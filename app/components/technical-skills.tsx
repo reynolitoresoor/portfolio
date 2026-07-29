@@ -1,6 +1,4 @@
-import { technicalSkills
-    
- } from "../lib/placeholder-data";
+import { technicalSkills } from "../lib/placeholder-data";
 export function TechnicalSkills() {
     return (
        <>
