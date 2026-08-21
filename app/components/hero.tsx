@@ -77,14 +77,14 @@ export function Hero() {
           <TechnicalSkills />
         </div>
         <div className="w-full p-[1px] bg-gradient-to-r from-transparent via-foreground/10 to-transparent my-8" />
-        <h2 id="projects" className="text-lg font-semibold tracking-tight text-balance text-gray-900 sm:text-4xl">Projects</h2>
-        <div className="grid grid-cols-2 gap-5 mt-3 md:grid-cols-3 lg:grid-cols-3">
-          <Projects />
-        </div>
-        <div className="w-full p-[1px] bg-gradient-to-r from-transparent via-foreground/10 to-transparent my-8" />
         <h2 id="current-projects" className="text-lg font-semibold tracking-tight text-balance text-gray-900 sm:text-4xl">Current Projects Maintained</h2>
         <div className="grid grid-cols-2 gap-5 mt-3 md:grid-cols-3 lg:grid-cols-3">
           <CurrentProjects />
+        </div>
+        <div className="w-full p-[1px] bg-gradient-to-r from-transparent via-foreground/10 to-transparent my-8" />
+        <h2 id="projects" className="text-lg font-semibold tracking-tight text-balance text-gray-900 sm:text-4xl">Projects</h2>
+        <div className="grid grid-cols-2 gap-5 mt-3 md:grid-cols-3 lg:grid-cols-3">
+          <Projects />
         </div>
       </div>
     </div>

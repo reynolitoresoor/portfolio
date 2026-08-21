@@ -67,6 +67,12 @@ const projects = [
 
 const currentProjects = [
     {
+        name: 'Vote2Sort',
+        description: '',
+        sourceCode: 'https://vote2sort.com/',
+        img: './assets/images/vote2sort.png'
+    },
+    {
         name: 'Potomacofficersclub',
         description: '',
         sourceCode: 'https://www.potomacofficersclub.com/',
