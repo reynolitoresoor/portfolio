@@ -44,7 +44,7 @@ export function Hero() {
           </div>
           <h4 className="text-blue-500">FullStack Developer</h4>
           <ul className="list-disc mx-10">
-            <li>Customize and develop custom themes and plugins</li>
+            <li>Customize and develop Wordpress custom themes and plugins</li>
             <li>Backend Development (Laravel & CodeIgniter)</li>
             <li>Develop RESTful APIs for frontend</li>
             <li>Frontend Development (Vue.js & React.js)</li>
